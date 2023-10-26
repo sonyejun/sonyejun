@@ -1,5 +1,7 @@
-### Name: Yejun, Son
-### Email: ywson9027@gmail.com
+### Name
+ Yejun, Son
+### Email
+ ywson9027@gmail.com
 ### Skill
  Html, Css, Javascript, Jquery, Sass, Less, Node.js(Express), React, Git & Github<br />
 ### About
